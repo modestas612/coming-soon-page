@@ -1,6 +1,6 @@
 # Coming-soon-page
 
-You can use the [editor on GitHub](https://github.com/modestas612/Portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can use the [coming soon page](https://modestas612.github.io/coming-soon-page/) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
