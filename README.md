@@ -1,6 +1,6 @@
 # Coming-soon-page
 
-Press this to see -> [coming soon page](https://modestas612.github.io/coming-soon-page/).
+[See "Coming soon" page here](https://modestas612.github.io/coming-soon-page/).
 
 ### Markdown
 
