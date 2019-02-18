@@ -1,0 +1,8 @@
+body{
+    display: block;
+    background-image: url(../img/fonas1.jpg);
+    background-repeat:repeat;
+    background-attachment:fixed;
+    margin: 0;
+    
+}

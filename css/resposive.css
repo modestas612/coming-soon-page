@@ -1,0 +1,73 @@
+@media ( max-width: 1000px ) {
+    body > header{
+        height: 105vh;
+    }
+    body > header > div > div > ul > li{
+        width: 25%;
+    }
+    body > header > div > p > input{
+        width: 250px;
+    }
+    .section {
+        height: 120vh;
+    }
+    .first-box{
+        width: 80%;
+        margin-left: 10%;
+        margin-right: 10%;
+        padding: 0;
+    }
+    .second-box{
+        width: 80%;
+        margin-left: 10%;
+        margin-right: 10%;
+        padding: 0;
+    }
+}    
+
+@media ( max-width: 603px ){
+    body > header{
+        height: 140vh;
+    }
+    body > header > div > div > ul > li{
+        width: 25%;
+    }
+    body > header > div > p > input{
+        width: 50%;
+    }
+    .section {
+        height: 150vh;
+    }
+    .name{
+        width: 100%;
+        padding: 0%;
+    }
+    .email2{
+        width: 100%;
+        padding: 0%;
+    }
+    .footer{
+        height: 70vh;
+    }
+    .contacts{
+        height: 50vh;
+    }
+}
+
+@media ( max-width: 400px ){
+    body > header > div > div > ul > li{
+        width: 25%;
+    }
+    body > header{
+        height: 150vh;
+    }
+    .section {
+        height: 170vh;
+    }
+    .footer{
+        height: 80vh;
+    }
+    .contacts{
+        height: 55vh;
+    }
+}

@@ -1,0 +1,124 @@
+.section{
+    display: block;
+    padding: 110px 0px;
+    background-color:white;
+    box-sizing: border-box;
+    height: 80vh;
+}
+.conteiner{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    text-align: center;
+}
+.first-box{
+    display: inline-block;
+    width: 50%;
+    float: left;
+    text-align: left;
+    padding-right: 5%;
+}
+.second-box{
+    display: inline-block;
+    width: 40%;
+    float: left;
+    text-align: left;
+    padding-left: 5%;
+}
+
+h2{
+    font-family: sans-serif;
+}
+
+p{
+    color: #9e9e9e;
+    font-family: sans-serif;
+}
+
+.p4{
+    color: #9e9e9e;
+    font-family: sans-serif;
+    margin: 10px 0px 10px 0px;
+}
+
+.a1{
+    text-decoration: none;
+    color: red;
+}
+.a1:hover {color: blue;}
+
+.progress{
+    width: 100%;
+    margin-bottom: 25px;
+    background-color: #d1d1d1;
+}
+  
+.progress-bar{
+    width: 1%;
+    height: 8px;
+    background-color: blue;
+}
+
+.conteiner2{
+    width: 100%;    
+}
+
+.row{
+    display: inline-block;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.name{
+    display: inline-block;
+    width: 45%;
+    float: left;
+    padding-right: 5%;
+    
+}
+.email2{
+    display: inline-block;
+    width: 45%;
+    float: left;
+    padding-left: 5%;
+   
+}
+.input-field{
+    width: 100%;
+}
+
+.label13{
+    color: #9e9e9e;
+    font-family: sans-serif;
+    float: right;
+    margin-top: -27px;
+}
+
+.label12{
+    color: #9e9e9e;
+    font-family: sans-serif;
+}
+.input12{
+    border: none;
+    border-bottom: 1px solid #9e9e9e;
+    background-color: transparent;
+    width: 100%;
+}
+
+.textarea{
+    border: none;
+    border-bottom: 1px solid #9e9e9e;
+    background-color: transparent;
+    width: 100%;
+    height: 50px;
+    resize: horizontal;
+    resize: vertical;
+    vertical-align: bottom;
+}
+
+textarea:focus{
+    outline: none;
+}
+
